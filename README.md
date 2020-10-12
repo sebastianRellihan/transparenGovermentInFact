@@ -1,6 +1,6 @@
 # Transparen Goverment In Fact
 
-> _Este repositorio corresponde a uno de los proyectos realizados en el Bootcamp de desarrollo web en Mindhub en el 2019
+> Este repositorio corresponde a uno de los proyectos realizados en el Bootcamp de desarrollo web en Mindhub en el 2019
 
 ## Tecnologías empleadas:
 - HTML5
